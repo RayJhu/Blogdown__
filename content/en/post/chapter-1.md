@@ -1,8 +1,10 @@
 ---
 date: "2022-11-20T10:58:08-04:00"
-description: An exploration of the economic landscape in Sydney
-featured_image: /images/background.jpg
-title: 'Chapter I: Change in Eras'
+description: The Grand Hall
+featured_image: /images/Pope-Edouard-de-Beaumont-1844.jpg
+tags:
+- scene
+title: 'Chapter I: The Grand Hall'
 ---
 
 Three hundred and forty-eight years, six months, and nineteen days ago
