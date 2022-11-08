@@ -5,4 +5,6 @@ featured_image: '/images/favicon.ico'
 tags: []
 title: 'Chapter I: Change in Eras'
 ---
+{{< figure src="/images/5ROuxc.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+
 This is...
