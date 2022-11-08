@@ -6,7 +6,7 @@ featured_image: /images/Victor_Hugo-Hunchback.jpg
 menu:
   main:
     weight: 1
-title: About
+title: Blog
 ---
 {{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 
